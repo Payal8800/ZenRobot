@@ -54,7 +54,7 @@ async def restart(client, m: Message):
         lol,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『𝙕𝙀𝙉 ✘ 𝙍𝙊𝘽𝙊𝙏』**
    ━━━━━━━━━━━━━━━━━━━
-  » **ᴍʏ ᴏᴡɴᴇʀ :** [ᴀᴅɪᴛʏᴀ](https://t.me/{OWNER_USERNAME})
+  » **ᴍʏ ᴏᴡɴᴇʀ :** [𝐑ᴀᴅʜᴀ](https://t.me/{OWNER_USERNAME})
   
   » **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
   
