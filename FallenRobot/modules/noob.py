@@ -11,19 +11,19 @@ from pyrogram.types import (
 
 from FallenRobot import pbot as bot
 
-Zen = "https://telegra.ph/file/29dfe5718ac9653c14efd.mp4"
+Radha = "https://telegra.ph/file/4e097df12d8eb2ad48c81.jpg"
 
 
 @bot.on_message(filters.command(["noob", "owner"]))
 async def repo(client, message):
     await message.reply_photo(
         photo=Zen,
-        caption=f"""**ʜᴇʏ {message.from_user.mention()},\n\nɪ ᴀᴍ [「 ᴢᴇɴ  ʀᴏʙᴏᴛ 」](t.me/Zenxrobot)**
+        caption=f"""**ʜᴇʏ {message.from_user.mention()},\n\nɪ ᴀᴍ [「 ʀᴀᴅʜᴀ  ʀᴏʙᴏᴛ 」](t.me/RadhaXRobot_Bot)**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/pythonxgamer"),
+                    InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/MissRadha"),
                 ]
             ]
         ),
